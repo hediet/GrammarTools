@@ -1,0 +1,3 @@
+﻿S->SAS|BA
+A->ab|B|
+B->BB|AaA|S

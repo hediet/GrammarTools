@@ -1,0 +1,12 @@
+﻿S -> TaX|TbY|aa|bb|
+T -> aTA|bTB|aA|bB
+Aa -> aA
+Ab -> bA
+Ba -> aB
+Bb -> bB
+AX -> aX
+AY -> aY
+BX -> bX
+BY -> bY
+X -> a
+Y -> b

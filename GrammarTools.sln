@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrammarTools", "GrammarTools.csproj", "{EE52F8A7-FAEF-4489-ABD0-206FEA2783FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE52F8A7-FAEF-4489-ABD0-206FEA2783FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE52F8A7-FAEF-4489-ABD0-206FEA2783FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE52F8A7-FAEF-4489-ABD0-206FEA2783FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE52F8A7-FAEF-4489-ABD0-206FEA2783FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
